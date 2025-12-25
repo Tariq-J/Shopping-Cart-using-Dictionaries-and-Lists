@@ -1,5 +1,4 @@
 # Shopping-Cart-using-Dictionaries-and-Lists
-# Simple Python Menu Program
 
 This is a beginner Python program that shows a small food menu, lets the user choose items, and calculates the total bill.
 
